@@ -17,8 +17,7 @@ This website summarizes the topics discussed in our [Paper](https://github.com/b
              |                   | Thermal         |Radar
              |                   |                |Thermal
              |                  |                 |3D
-鲁棒性         | NAS             | NAS            | NAS
-             | 手动设计          | 手动设计        | 手动设计
+  鲁棒性      | 手动设计          | 手动设计        | 手动设计
              | 高效训练          | 高效训练        | 高效训练
              |Camera            |Camera          |Camera   
              |LiDAR              |LiDAR            |LiDAR
