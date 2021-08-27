@@ -10,7 +10,7 @@ This website summarizes the topics discussed in our [Paper](https://github.com/b
 指标 | Detection
 ------------ | -------------
 实时性 | NAS
-   -   | 手动设计
+ 实时性 | 手动设计
 鲁棒性| 
 
 
