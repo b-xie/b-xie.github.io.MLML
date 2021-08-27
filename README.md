@@ -1,6 +1,6 @@
 ## 基于特征融合的无人驾驶感知实时与鲁棒性研究
-![image](https://user-images.githubusercontent.com/60713917/131110932-2791ebfd-f4d0-4b82-b9f6-baeed8f0a4c0.png)
 
+![image](https://user-images.githubusercontent.com/60713917/131111165-e61f439f-98a1-4ac1-973a-189c740c4c06.png)
 
 This website summarizes the topics discussed in our [Paper](https://github.com/b-xie/). References can be navigated by the main topics Sensor fusion / Detection / Segmentation /NAS/ Un/Semi supervision. For Detection and Segmentation meaningful tags are provided to view a subset only (e.g. 2D). Further test vehicle setup are summarized.
 
