@@ -7,11 +7,24 @@
 This website summarizes the topics discussed in our [Paper](https://github.com/b-xie/). References can be navigated by the main topics Sensor fusion / Detection / Segmentation /NAS/ Un/Semi supervision. For Detection and Segmentation meaningful tags are provided to view a subset only (e.g. 2D). Further test vehicle setup are summarized.
 
 
-指标 | Detection
+指标          |Classification  |	 Segmentation  |  Detection 
 ------------ | -------------
-实时性 | NAS
- 实时性 | 手动设计
-鲁棒性| 
+实时性        | NAS             | NAS            | NAS
+             | 手动设计          | 手动设计        | 手动设计
+             | 高效训练          | 高效训练        | 高效训练
+             |Camera            |Camera          |Camera   
+             |LiDAR              |LiDAR            |LiDAR
+             |                   | Thermal         |Radar
+             |                   |                |Thermal
+             |                  |                 |3D
+鲁棒性         | NAS             | NAS            | NAS
+             | 手动设计          | 手动设计        | 手动设计
+             | 高效训练          | 高效训练        | 高效训练
+             |Camera            |Camera          |Camera   
+             |LiDAR              |LiDAR            |LiDAR
+             |                   | Thermal         |Radar
+             |                   |                |Thermal
+             |                  |                 |3D
 
 
 You can use the [editor on GitHub](https://github.com/b-xie/b-xie.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
