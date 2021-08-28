@@ -7,12 +7,12 @@
 This website summarizes the topics discussed in our [Paper](https://github.com/b-xie/). References can be navigated by the main topics Sensor fusion / Detection / Segmentation /NAS/ Un/Semi supervision. For Detection and Segmentation meaningful tags are provided to view a subset only (e.g. 2D). Further test vehicle setup are summarized.
 
 
-index        |      Classification        |	     Segmentation          |  Detection 
+index        |      Classification        |	     Segmentation          |  Detection                  |  Vehicles     |Datasets
 ------------ | -------------
 real-time    | NAS                        | NAS                        | NAS
              | Manual                     | Manual                    | Manual
              | Un/Semi supervision        | Un/Semi supervision        | Un/Semi supervision 
-             |Model compression           |Model compression            |Model compression 
+             |compression                 | compression                |compression 
              |Camera                      |Camera                      |Camera   
              |LiDAR                       |LiDAR                       |LiDAR
              |                            | Thermal                    |Radar
@@ -24,7 +24,7 @@ robustness   | NAS                        | NAS                        | NAS
              |LiDAR                        |LiDAR                      |LiDAR
              |                            | Thermal                    |Radar
              |                            |                           |Thermal
-             |                              |                           |3D
+             |                            |                           |3D
 
 
 You can use the [editor on GitHub](https://github.com/b-xie/b-xie.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
