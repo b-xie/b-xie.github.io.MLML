@@ -9,7 +9,7 @@ This website summarizes the topics discussed in our [Paper](https://github.com/b
 
 index        |      Classification        |	     Segmentation          |  Detection                  |  Vehicles     |Datasets
 ------------ | -------------
-real-time    | NAS                        | NAS                        | NAS                          |![image](https://user-images.githubusercontent.com/60713917/131202045-caf18132-84c7-46c9-ba7f-5060a5c58bb4.png)|![image](https://user-images.githubusercontent.com/60713917/131202225-f97876be-de47-4ab8-8910-434669d3fb62.png)
+real-time    | NAS                        | NAS                        | NAS                          |![image](https://user-images.githubusercontent.com/60713917/131202362-f589d1da-f28c-44e1-a9c6-94841a9bf6d8.png)|![image](https://user-images.githubusercontent.com/60713917/131202335-10028e57-8043-4442-8465-6603cbc19cba.png)
 
 
              | Manual                     | Manual                    | Manual
